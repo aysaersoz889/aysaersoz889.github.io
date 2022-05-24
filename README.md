@@ -12,6 +12,7 @@
 Open Education Faculty
 - International Trade and Logistics Management (Associate Degree)
 ## EXPERIENCES AND WORKS
+![Image](https://github.com/aysaersoz889/aysaersoz889.github.io/blob/master/37431306207961.pdf)
 ### Clinic Center - International Patient Relations Specialist
 - Clinic Center is an establishment of Ada Saglik Seyahat Saglik Turizmi ve Danismanligi Ltd. Sti. It is a Health Tourism Company.
 - Job Description: I managed the communication processes between the patient and the doctor. 
