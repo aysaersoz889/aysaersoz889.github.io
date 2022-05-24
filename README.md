@@ -7,7 +7,7 @@
 - Thesis: “Iran's Foreign Policy After the Revolution in the Middle East Depending on Its Effects on Iran's Relations with theaxis of US-China According to the Perspective of Political-Economy” - 70% of the passed courses were in English
 - GPA: 3.35/4.0
 - Graduated with Honor Certificate
-- 
+###
 ## Anadolu University _(Eskisehir,Turkey)_
 Open Education Faculty
 - International Trade and Logistics Management (Associate Degree)
