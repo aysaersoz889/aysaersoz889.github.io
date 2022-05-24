@@ -44,6 +44,7 @@ TUIC (Turkey International Relations Studies) Academy: Feminism Studies - Publis
 - Description: We discussed the concepts of transparency, accountability, and participation with their projections in
 different fields and disciplines. In this good governance school focused on anti-corruption; we had the opportunity to attend training seminars on ethics, political finance, investigative journalism, fight against corruption in the private sector, compliance policies and basic data education.
 ### Bianet Fundamental Journalism Workshop
+![Image](src)
 In this workshop, I learned:
 - What the news is and how it is written,
 - How the editorial processes are,
